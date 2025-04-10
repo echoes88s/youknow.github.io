@@ -19,7 +19,7 @@
 
 ## Сайт
 
-[https://github.com/echoes88s/youknow.github.io/deployments/github-pages]
+[[https://github.com/echoes88s/youknow.github.io/deployments/github-pages](https://echoes88s.github.io/youknow.github.io/)]
 
 ## Як долучитися
 
